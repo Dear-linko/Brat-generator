@@ -1,0 +1,92 @@
+{
+  "Metadata": {
+    "title": "Brat Generator: Create Custom Album Cover Images Inspired by Charli XCX's 'Brat'",
+    "description": "The Charli XCX Brat Generator is an online tool that allows users to input keywords or select options to generate a \"brat\" character or phrase in the style of Charli XCX."
+  },
+  "LanguagesSwitchModal": {
+    "p1": "We've detected that your browser language is",
+    "p2": ". Would you like to switch to this language?",
+    "cancel": "Cancel",
+    "confirm": "Confirm"
+  },
+  "Navbar": {
+    "Item1": "How to use",
+    "Item2": "Why choose us",
+    "Item3": "Use Cases",
+    "Item4": "FAQs"
+  },
+  "Footer": {
+    "copyright": "© 2024 Brat Generator All rights reserved."
+  },
+  "CTA": {
+    "title": "Try Brat Generator Now!",
+    "description": "Experience the easiest way to create custom text images. No sign-up required - start designing instantly!",
+    "buttonText": "Get started"
+  },
+  "HowToUse": {
+    "title": "How to Use Our Brat Generator",
+    "description": "Our Brat Generator is designed to be user-friendly and easy to operate. Simply follow these steps to get started:",
+    "step_title1": "Step 1: Enter Your Text",
+    "step_description1": "Type the desired text in the input field.",
+    "step_title2": "Step 2: Customize Colors",
+    "step_description2": "Choose your preferred text and background colors using the color pickers.",
+    "step_title3": "Step 3: Adjust Dimensions",
+    "step_description3": "Set the width and height of your image using the sliders or input fields.",
+    "step_title4": "Step 4: Fine-tune Appearance",
+    "step_description4": "Modify the border radius and font size to perfect your design.",
+    "step_title5": "Preview Your Creation",
+    "step_description5": "See your changes instantly in the preview pane on the right.",
+    "step_title6": "Step 6: Download Your Image",
+    "step_description6": "Once satisfied, click the \"Download Image\" button to save your creation.",
+    "step_title7": "Step 7: Reset if Needed",
+    "step_description7": "Use the \"Reset\" button to start over with default settings."
+  },
+  "WhyChooseUs": {
+    "title": "Why Choose Our Brat Generator?",
+    "description": "Our Brat Generator offers a range of features that make it easy and fun to create custom images resembling the album cover of Brat by Charli XCX.",
+    "feature_name1": "Easy to Use",
+    "feature_description1": "Our intuitive interface makes creating custom text images a breeze, even for beginners. You can start designing immediately without any learning curve.",
+    "feature_name2": "Highly Customizable",
+    "feature_description2": "Adjust text, colors, size, and more to create the perfect image for your needs. With a wide range of customization options, you can bring your vision to life exactly as you imagine it.",
+    "feature_name3": "Instant Preview",
+    "feature_description3": "See your changes in real-time, allowing for quick and easy adjustments. This feature helps you fine-tune your design efficiently without the need for multiple exports.",
+    "feature_name4": "Download in Seconds",
+    "feature_description4": "Generate and download your custom image with just one click. Our fast processing ensures you can get your created image immediately, saving you valuable time.",
+    "feature_name5": "No Account Required",
+    "feature_description5": "Start creating immediately without the need for sign-ups or logins. This hassle-free approach allows you to jump right into the creative process without any barriers.",
+    "feature_name6": "Free to Use",
+    "feature_description6": "Create as many images as you want, completely free of charge. Our tool is accessible to everyone, allowing unlimited creativity without financial constraints."
+  },
+  "FAQs": {
+    "title": "Frequently Asked Questions about Our Brat Generator",
+    "description": "Here are some common questions about our Brat Generator:",
+    "question1": "What file format are the generated images in?",
+    "answer1": "The Brat Generator creates images in PNG format, which offers high quality and transparency support, suitable for various uses including web and print.",
+    "question2": "Is there a limit to how many images I can create?",
+    "answer2": "No, there's no limit. You can create as many images as you want, completely free of charge.",
+    "question3": "Can I use the images I create for commercial purposes?",
+    "answer3": "Yes, the images you create with Brat Generator are yours to use for any purpose, including commercial use.",
+    "question4": "Do I need to create an account to use Brat Generator?",
+    "answer4": "No, you don't need to create an account. You can start using Brat Generator immediately without any sign-up process.",
+    "question5": "What's the maximum image size I can create?",
+    "answer5": "The maximum image size is 1000x1000 pixels. This should be sufficient for most use cases, including social media posts and website graphics.",
+    "question6": "Can I use custom fonts in my text images?",
+    "answer6": "Currently, Brat Generator uses a default font. We're working on adding custom font support in future updates."
+  },
+  "Banner": {
+    "title": "Brat Generator",
+    "description": "Brat Generator is an online tool that allows users to create custom images resembling the album cover of Brat by Charli XCX."
+  },
+  "BratGenerator": {
+    "enter_text": "Enter Text",
+    "text_color": "Text Color",
+    "background_color": "Background Color",
+    "width": "Width",
+    "height": "Height",
+    "border_radius": "Border Radius",
+    "font_size": "Font Size",
+    "reset": "Reset",
+    "download_image": "Download",
+    "default_text": "brat"
+  }
+}

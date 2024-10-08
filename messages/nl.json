@@ -1,0 +1,92 @@
+{
+  "Metadata": {
+    "title": "Brat Generator: Maak aangepaste albumhoes afbeeldingen geïnspireerd door Charli XCX's 'Brat'",
+    "description": "De Charli XCX Brat Generator is een online tool waarmee gebruikers trefwoorden kunnen invoeren of opties kunnen selecteren om een 'brat' karakter of zin te genereren in de stijl van Charli XCX."
+  },
+  "LanguagesSwitchModal": {
+    "p1": "We hebben gedetecteerd dat uw browsertaal",
+    "p2": "is. Wilt u overschakelen naar deze taal?",
+    "cancel": "Annuleren",
+    "confirm": "Bevestigen"
+  },
+  "Navbar": {
+    "Item1": "Hoe te gebruiken",
+    "Item2": "Waarom ons kiezen",
+    "Item3": "Gebruiksscenario's",
+    "Item4": "Veelgestelde vragen"
+  },
+  "Footer": {
+    "copyright": "© 2024 Brat Generator. Alle rechten voorbehouden."
+  },
+  "CTA": {
+    "title": "Probeer de Brat Generator nu!",
+    "description": "Ervaar de gemakkelijkste manier om aangepaste tekstafbeeldingen te maken. Geen aanmelding vereist - begin direct met ontwerpen!",
+    "buttonText": "Aan de slag"
+  },
+  "HowToUse": {
+    "title": "Hoe onze Brat Generator te gebruiken",
+    "description": "Onze Brat Generator is ontworpen om gebruiksvriendelijk en eenvoudig te bedienen te zijn. Volg simpelweg deze stappen om te beginnen:",
+    "step_title1": "Stap 1: Voer uw tekst in",
+    "step_description1": "Typ de gewenste tekst in het invoerveld.",
+    "step_title2": "Stap 2: Pas kleuren aan",
+    "step_description2": "Kies uw voorkeurskleuren voor tekst en achtergrond met de kleurkiezers.",
+    "step_title3": "Stap 3: Pas afmetingen aan",
+    "step_description3": "Stel de breedte en hoogte van uw afbeelding in met de schuifregelaars of invoervelden.",
+    "step_title4": "Stap 4: Verfijn het uiterlijk",
+    "step_description4": "Wijzig de randradius en lettergrootte om uw ontwerp te perfectioneren.",
+    "step_title5": "Stap 5: Bekijk uw creatie",
+    "step_description5": "Zie uw wijzigingen direct in het voorbeeldvenster aan de rechterkant.",
+    "step_title6": "Stap 6: Download uw afbeelding",
+    "step_description6": "Als u tevreden bent, klik op de knop 'Afbeelding downloaden' om uw creatie op te slaan.",
+    "step_title7": "Stap 7: Reset indien nodig",
+    "step_description7": "Gebruik de 'Reset' knop om opnieuw te beginnen met de standaardinstellingen."
+  },
+  "WhyChooseUs": {
+    "title": "Waarom onze Brat Generator kiezen?",
+    "description": "Onze Brat Generator biedt een reeks functies die het gemakkelijk en leuk maken om aangepaste afbeeldingen te creëren die lijken op de albumhoes van Brat door Charli XCX.",
+    "feature_name1": "Gemakkelijk te gebruiken",
+    "feature_description1": "Onze intuïtieve interface maakt het creëren van aangepaste tekstafbeeldingen een fluitje van een cent, zelfs voor beginners. U kunt onmiddellijk beginnen met ontwerpen, zonder leercurve.",
+    "feature_name2": "Zeer aanpasbaar",
+    "feature_description2": "Pas tekst, kleuren, grootte en meer aan om de perfecte afbeelding voor uw behoeften te creëren. Met een breed scala aan aanpassingsopties kunt u uw visie precies tot leven brengen zoals u het zich voorstelt.",
+    "feature_name3": "Directe voorvertoning",
+    "feature_description3": "Zie uw wijzigingen in realtime, waardoor snelle en eenvoudige aanpassingen mogelijk zijn. Deze functie helpt u uw ontwerp efficiënt te verfijnen zonder de noodzaak van meerdere exports.",
+    "feature_name4": "Download in seconden",
+    "feature_description4": "Genereer en download uw aangepaste afbeelding met slechts één klik. Onze snelle verwerking zorgt ervoor dat u uw gemaakte afbeelding onmiddellijk kunt krijgen, waardoor u waardevolle tijd bespaart.",
+    "feature_name5": "Geen account vereist",
+    "feature_description5": "Begin onmiddellijk met creëren zonder de noodzaak van aanmeldingen of inloggen. Deze ongecompliceerde aanpak stelt u in staat om direct in het creatieve proces te duiken zonder barrières.",
+    "feature_name6": "Gratis te gebruiken",
+    "feature_description6": "Maak zoveel afbeeldingen als u wilt, volledig gratis. Onze tool is toegankelijk voor iedereen, waardoor onbeperkte creativiteit mogelijk is zonder financiële beperkingen."
+  },
+  "FAQs": {
+    "title": "Veelgestelde vragen over onze Brat Generator",
+    "description": "Hier zijn enkele veelvoorkomende vragen over onze Brat Generator:",
+    "question1": "In welk bestandsformaat zijn de gegenereerde afbeeldingen?",
+    "answer1": "De Brat Generator maakt afbeeldingen in PNG-formaat, dat hoge kwaliteit en transparantie-ondersteuning biedt, geschikt voor verschillende toepassingen, waaronder web en print.",
+    "question2": "Is er een limiet aan hoeveel afbeeldingen ik kan maken?",
+    "answer2": "Nee, er is geen limiet. U kunt zoveel afbeeldingen maken als u wilt, volledig gratis.",
+    "question3": "Kan ik de afbeeldingen die ik maak voor commerciële doeleinden gebruiken?",
+    "answer3": "Ja, de afbeeldingen die u maakt met de Brat Generator zijn van u om te gebruiken voor elk doel, inclusief commercieel gebruik.",
+    "question4": "Moet ik een account aanmaken om de Brat Generator te gebruiken?",
+    "answer4": "Nee, u hoeft geen account aan te maken. U kunt de Brat Generator onmiddellijk gebruiken zonder enig aanmeldingsproces.",
+    "question5": "Wat is de maximale afbeeldingsgrootte die ik kan maken?",
+    "answer5": "De maximale afbeeldingsgrootte is 1000x1000 pixels. Dit zou voldoende moeten zijn voor de meeste gebruiksscenario's, inclusief sociale media posts en website graphics.",
+    "question6": "Kan ik aangepaste lettertypen gebruiken in mijn tekstafbeeldingen?",
+    "answer6": "Momenteel gebruikt de Brat Generator een standaard lettertype. We werken eraan om ondersteuning voor aangepaste lettertypen toe te voegen in toekomstige updates."
+  },
+  "Banner": {
+    "title": "Brat Generator",
+    "description": "De Brat Generator is een online tool waarmee gebruikers aangepaste afbeeldingen kunnen maken die lijken op de albumhoes van Brat door Charli XCX."
+  },
+  "BratGenerator": {
+    "enter_text": "Voer tekst in",
+    "text_color": "Tekstkleur",
+    "background_color": "Achtergrondkleur",
+    "width": "Breedte",
+    "height": "Hoogte",
+    "border_radius": "Randradius",
+    "font_size": "Lettergrootte",
+    "reset": "Reset",
+    "download_image": "Downloaden",
+    "default_text": "brat"
+  }
+}

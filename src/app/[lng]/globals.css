@@ -1,0 +1,73 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 基础滚动条样式 */
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: #f9f9f9; /* 非暗黑模式下的轨道颜色 */
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #eeeeee; /* 非暗黑模式下的拇指颜色 */
+    border-radius: 9999px;
+}
+
+/* 暗黑模式滚动条样式，使用'class'模式时 */
+.dark ::-webkit-scrollbar-track {
+    background: #171717; /* 暗黑模式下的轨道颜色 */
+}
+
+.dark ::-webkit-scrollbar-thumb {
+    background-color: #8b8b8b; /* 暗黑模式下的拇指颜色 */
+}
+
+@keyframes textColorChange {
+    0% {
+        color: #3490dc;
+    } /* 蓝色 */
+    25% {
+        color: #9f7aea;
+    } /* 紫色 */
+    50% {
+        color: #f66d9b;
+    } /* 粉色 */
+    75% {
+        color: #38c172;
+    } /* 绿色 */
+    100% {
+        color: #3490dc;
+    } /* 蓝色 */
+}
+
+.text-color-change {
+    animation: textColorChange 10s infinite;
+}
+.language-prompt {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    background-color: white;
+    border: 1px solid #ccc;
+    padding: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    z-index: 1000;
+  }
+  .language-prompt p {
+    margin: 0 0 10px;
+  }
+  .language-prompt button {
+    margin-right: 10px;
+  }
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.5s ease-out;
+}

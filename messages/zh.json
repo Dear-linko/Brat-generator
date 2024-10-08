@@ -1,0 +1,92 @@
+{
+  "Metadata": {
+    "title": "Brat生成器:创建受Charli XCX的'Brat'启发的自定义专辑封面图像",
+    "description": "Charli XCX Brat生成器是一个在线工具,允许用户输入关键词或选择选项,以Charli XCX的风格生成'brat'角色或短语。"
+  },
+  "LanguagesSwitchModal": {
+    "p1": "我们检测到您的浏览器语言是",
+    "p2": "。您想切换到这种语言吗?",
+    "cancel": "取消",
+    "confirm": "确认"
+  },
+  "Navbar": {
+    "Item1": "如何使用",
+    "Item2": "为什么选择我们",
+    "Item3": "使用场景",
+    "Item4": "常见问题"
+  },
+  "Footer": {
+    "copyright": "© 2024 Brat Generator. 保留所有权利。"
+  },
+  "CTA": {
+    "title": "立即尝试Brat生成器!",
+    "description": "体验创建自定义文本图像的最简单方式。无需注册 - 立即开始设计!",
+    "buttonText": "开始使用"
+  },
+  "HowToUse": {
+    "title": "如何使用我们的Brat生成器",
+    "description": "我们的Brat生成器设计为用户友好且易于操作。只需按照以下步骤开始:",
+    "step_title1": "步骤1:输入您的文本",
+    "step_description1": "在输入框中输入所需的文本。",
+    "step_title2": "步骤2:自定义颜色",
+    "step_description2": "使用颜色选择器选择您喜欢的文本和背景颜色。",
+    "step_title3": "步骤3:调整尺寸",
+    "step_description3": "使用滑块或输入框设置图像的宽度和高度。",
+    "step_title4": "步骤4:微调外观",
+    "step_description4": "修改边框半径和字体大小以完善您的设计。",
+    "step_title5": "步骤5:预览您的创作",
+    "step_description5": "在右侧的预览窗格中实时查看您的更改。",
+    "step_title6": "步骤6:下载您的图像",
+    "step_description6": "满意后,点击‘下载图像’按钮保存您的创作。",
+    "step_title7": "步骤7:如需重置",
+    "step_description7": "使用‘重置’按钮恢复默认设置重新开始。"
+  },
+  "WhyChooseUs": {
+    "title": "为什么选择我们的Brat生成器?",
+    "description": "我们的Brat生成器提供一系列功能,使创建类似Charli XCX的Brat专辑封面的自定义图像变得简单有趣。",
+    "feature_name1": "易于使用",
+    "feature_description1": "我们直观的界面使创建自定义文本图像变得轻而易举,即使对初学者也是如此。您可以立即开始设计,无需学习曲线。",
+    "feature_name2": "高度可定制",
+    "feature_description2": "调整文本、颜色、大小等,以创建满足您需求的完美图像。通过广泛的自定义选项,您可以将您的愿景完全按照您想象的方式实现。",
+    "feature_name3": "即时预览",
+    "feature_description3": "实时查看您的更改,允许快速轻松地调整。此功能帮助您高效地微调设计,无需多次导出。",
+    "feature_name4": "秒级下载",
+    "feature_description4": "只需一次点击即可生成和下载您的自定义图像。我们的快速处理确保您可以立即获得创建的图像,节省宝贵的时间。",
+    "feature_name5": "无需账户",
+    "feature_description5": "无需注册或登录即可立即开始创作。这种无障碍的方法允许您直接进入创作过程,没有任何障碍。",
+    "feature_name6": "免费使用",
+    "feature_description6": "创建任意数量的图像,完全免费。我们的工具对所有人开放,允许无限创意,没有财务限制。"
+  },
+  "FAQs": {
+    "title": "关于我们的Brat生成器的常见问题",
+    "description": "以下是关于我们的Brat生成器的一些常见问题:",
+    "question1": "生成的图像是什么文件格式?",
+    "answer1": "Brat生成器创建PNG格式的图像,提供高质量和透明度支持,适用于各种用途,包括网络和打印。",
+    "question2": "我可以创建的图像数量有限制吗?",
+    "answer2": "没有,没有限制。您可以完全免费创建任意数量的图像。",
+    "question3": "我可以将创建的图像用于商业目的吗?",
+    "answer3": "是的,您使用Brat生成器创建的图像可以用于任何目的,包括商业用途。",
+    "question4": "我需要创建账户才能使用Brat生成器吗?",
+    "answer4": "不,您不需要创建账户。您可以立即使用Brat生成器,无需任何注册过程。",
+    "question5": "我可以创建的最大图像尺寸是多少?",
+    "answer5": "最大图像尺寸为1000x1000像素。这应该足以满足大多数用例,包括社交媒体帖子和网站图形。",
+    "question6": "我可以在文本图像中使用自定义字体吗?",
+    "answer6": "目前,Brat生成器使用默认字体。我们正在努力在未来的更新中添加自定义字体支持。"
+  },
+  "Banner": {
+    "title": "Brat生成器",
+    "description": "Brat生成器是一个在线工具,允许用户创建类似于Charli XCX的Brat专辑封面的自定义图像。"
+  },
+  "BratGenerator": {
+    "enter_text": "输入文本",
+    "text_color": "文本颜色",
+    "background_color": "背景颜色",
+    "width": "宽度",
+    "height": "高度",
+    "border_radius": "边框半径",
+    "font_size": "字体大小",
+    "reset": "重置",
+    "download_image": "下载",
+    "default_text": "brat"
+  }
+}

@@ -1,0 +1,92 @@
+{
+    "Metadata": {
+      "title": "Brat Generator: Tạo hình ảnh bìa album tùy chỉnh lấy cảm hứng từ 'Brat' của Charli XCX",
+      "description": "Brat Generator của Charli XCX là một công cụ trực tuyến cho phép người dùng nhập từ khóa hoặc chọn tùy chọn để tạo ra nhân vật hoặc cụm từ 'brat' theo phong cách của Charli XCX."
+    },
+    "LanguagesSwitchModal": {
+      "p1": "Chúng tôi đã phát hiện ngôn ngữ trình duyệt của bạn là",
+      "p2": ". Bạn có muốn chuyển sang ngôn ngữ này không?",
+      "cancel": "Hủy",
+      "confirm": "Xác nhận"
+    },
+    "Navbar": {
+      "Item1": "Cách sử dụng",
+      "Item2": "Tại sao chọn chúng tôi",
+      "Item3": "Trường hợp sử dụng",
+      "Item4": "Câu hỏi thường gặp"
+    },
+    "Footer": {
+      "copyright": "© 2024 Brat Generator. Tất cả các quyền được bảo lưu."
+    },
+    "CTA": {
+      "title": "Hãy thử Brat Generator ngay bây giờ!",
+      "description": "Trải nghiệm cách dễ dàng nhất để tạo hình ảnh văn bản tùy chỉnh. Không cần đăng ký - bắt đầu thiết kế ngay lập tức!",
+      "buttonText": "Bắt đầu"
+    },
+    "HowToUse": {
+      "title": "Cách sử dụng Brat Generator của chúng tôi",
+      "description": "Brat Generator của chúng tôi được thiết kế để dễ sử dụng và vận hành. Chỉ cần làm theo các bước sau để bắt đầu:",
+      "step_title1": "Bước 1: Nhập văn bản của bạn",
+      "step_description1": "Nhập văn bản mong muốn vào trường nhập liệu.",
+      "step_title2": "Bước 2: Tùy chỉnh màu sắc",
+      "step_description2": "Chọn màu văn bản và nền ưa thích bằng công cụ chọn màu.",
+      "step_title3": "Bước 3: Điều chỉnh kích thước",
+      "step_description3": "Đặt chiều rộng và chiều cao của hình ảnh bằng thanh trượt hoặc trường nhập liệu.",
+      "step_title4": "Bước 4: Tinh chỉnh giao diện",
+      "step_description4": "Sửa đổi bán kính viền và kích thước phông chữ để hoàn thiện thiết kế của bạn.",
+      "step_title5": "Bước 5: Xem trước tác phẩm của bạn",
+      "step_description5": "Xem các thay đổi của bạn ngay lập tức trong khung xem trước bên phải.",
+      "step_title6": "Bước 6: Tải xuống hình ảnh của bạn",
+      "step_description6": "Khi bạn hài lòng, nhấp vào nút 'Tải xuống hình ảnh' để lưu tác phẩm của bạn.",
+      "step_title7": "Bước 7: Đặt lại nếu cần",
+      "step_description7": "Sử dụng nút 'Đặt lại' để bắt đầu lại với cài đặt mặc định."
+    },
+    "WhyChooseUs": {
+      "title": "Tại sao chọn Brat Generator của chúng tôi?",
+      "description": "Brat Generator của chúng tôi cung cấp một loạt các tính năng giúp việc tạo hình ảnh tùy chỉnh giống với bìa album Brat của Charli XCX trở nên dễ dàng và thú vị.",
+      "feature_name1": "Dễ sử dụng",
+      "feature_description1": "Giao diện trực quan của chúng tôi giúp việc tạo hình ảnh văn bản tùy chỉnh trở nên dễ dàng, ngay cả đối với người mới bắt đầu. Bạn có thể bắt đầu thiết kế ngay lập tức, không cần đường cong học tập.",
+      "feature_name2": "Tùy chỉnh cao",
+      "feature_description2": "Điều chỉnh văn bản, màu sắc, kích thước và nhiều hơn nữa để tạo ra hình ảnh hoàn hảo cho nhu cầu của bạn. Với nhiều tùy chọn tùy chỉnh, bạn có thể mang tầm nhìn của mình vào cuộc sống chính xác như bạn tưởng tượng.",
+      "feature_name3": "Xem trước thời gian thực",
+      "feature_description3": "Xem các thay đổi của bạn trong thời gian thực, cho phép điều chỉnh nhanh chóng và dễ dàng. Tính năng này giúp bạn tinh chỉnh thiết kế của mình một cách hiệu quả mà không cần xuất nhiều lần.",
+      "feature_name4": "Tải xuống trong giây lát",
+      "feature_description4": "Tạo và tải xuống hình ảnh tùy chỉnh của bạn chỉ với một cú nhấp chuột. Xử lý nhanh chóng của chúng tôi đảm bảo bạn có thể nhận được hình ảnh đã tạo ngay lập tức, tiết kiệm thời gian quý báu.",
+      "feature_name5": "Không cần tài khoản",
+      "feature_description5": "Bắt đầu tạo ngay lập tức mà không cần đăng ký hoặc đăng nhập. Cách tiếp cận đơn giản này cho phép bạn đi thẳng vào quá trình sáng tạo mà không gặp rào cản.",
+      "feature_name6": "Miễn phí sử dụng",
+      "feature_description6": "Tạo bao nhiêu hình ảnh tùy thích, hoàn toàn miễn phí. Công cụ của chúng tôi có sẵn cho mọi người, cho phép sáng tạo không giới hạn mà không có hạn chế tài chính."
+    },
+    "FAQs": {
+      "title": "Câu hỏi thường gặp về Brat Generator của chúng tôi",
+      "description": "Dưới đây là một số câu hỏi phổ biến về Brat Generator của chúng tôi:",
+      "question1": "Hình ảnh được tạo ra ở định dạng file nào?",
+      "answer1": "Brat Generator tạo ra hình ảnh ở định dạng PNG, cung cấp chất lượng cao và hỗ trợ trong suốt, phù hợp cho nhiều mục đích sử dụng bao gồm web và in ấn.",
+      "question2": "Có giới hạn số lượng hình ảnh tôi có thể tạo không?",
+      "answer2": "Không, không có giới hạn. Bạn có thể tạo bao nhiêu hình ảnh tùy thích, hoàn toàn miễn phí.",
+      "question3": "Tôi có thể sử dụng hình ảnh tôi tạo cho mục đích thương mại không?",
+      "answer3": "Có, hình ảnh bạn tạo bằng Brat Generator là của bạn để sử dụng cho bất kỳ mục đích nào, bao gồm cả sử dụng thương mại.",
+      "question4": "Tôi có cần tạo tài khoản để sử dụng Brat Generator không?",
+      "answer4": "Không, bạn không cần tạo tài khoản. Bạn có thể bắt đầu sử dụng Brat Generator ngay lập tức mà không cần quy trình đăng ký nào.",
+      "question5": "Kích thước hình ảnh tối đa tôi có thể tạo là bao nhiêu?",
+      "answer5": "Kích thước hình ảnh tối đa là 1000x1000 pixel. Điều này nên đủ cho hầu hết các trường hợp sử dụng, bao gồm bài đăng trên mạng xã hội và đồ họa trang web.",
+      "question6": "Tôi có thể sử dụng phông chữ tùy chỉnh trong hình ảnh văn bản của mình không?",
+      "answer6": "Hiện tại, Brat Generator sử dụng phông chữ mặc định. Chúng tôi đang làm việc để thêm hỗ trợ cho phông chữ tùy chỉnh trong các bản cập nhật tương lai."
+    },
+    "Banner": {
+      "title": "Brat Generator",
+      "description": "Brat Generator là một công cụ trực tuyến cho phép người dùng tạo hình ảnh tùy chỉnh giống với bìa album Brat của Charli XCX."
+    },
+    "BratGenerator": {
+      "enter_text": "Nhập văn bản",
+      "text_color": "Màu văn bản",
+      "background_color": "Màu nền",
+      "width": "Chiều rộng",
+      "height": "Chiều cao",
+      "border_radius": "Bán kính viền",
+      "font_size": "Kích thước phông chữ",
+      "reset": "Đặt lại",
+      "download_image": "Tải xuống",
+      "default_text": "brat"
+    }
+  }

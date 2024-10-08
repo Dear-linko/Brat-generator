@@ -1,0 +1,92 @@
+{
+  "Metadata": {
+    "title": "Gerador Brat: Crie imagens de capa de álbum personalizadas inspiradas no 'Brat' de Charli XCX",
+    "description": "O Gerador Brat de Charli XCX é uma ferramenta online que permite aos usuários inserir palavras-chave ou selecionar opções para gerar um personagem ou frase 'brat' no estilo de Charli XCX."
+  },
+  "LanguagesSwitchModal": {
+    "p1": "Detectamos que o idioma do seu navegador é",
+    "p2": ". Deseja mudar para este idioma?",
+    "cancel": "Cancelar",
+    "confirm": "Confirmar"
+  },
+  "Navbar": {
+    "Item1": "Como usar",
+    "Item2": "Por que nos escolher",
+    "Item3": "Casos de uso",
+    "Item4": "FAQs"
+  },
+  "Footer": {
+    "copyright": "© 2024 Brat Generator. Todos os direitos reservados."
+  },
+  "CTA": {
+    "title": "Experimente o Gerador Brat agora!",
+    "description": "Experimente a maneira mais fácil de criar imagens de texto personalizadas. Não é necessário cadastro - comece a criar instantaneamente!",
+    "buttonText": "Começar"
+  },
+  "HowToUse": {
+    "title": "Como usar nosso Gerador Brat",
+    "description": "Nosso Gerador Brat foi projetado para ser fácil de usar e operar. Basta seguir estes passos para começar:",
+    "step_title1": "Passo 1: Insira seu texto",
+    "step_description1": "Digite o texto desejado no campo de entrada.",
+    "step_title2": "Passo 2: Personalize as cores",
+    "step_description2": "Escolha suas cores preferidas para o texto e o fundo usando os seletores de cor.",
+    "step_title3": "Passo 3: Ajuste as dimensões",
+    "step_description3": "Defina a largura e a altura da sua imagem usando os controles deslizantes ou campos de entrada.",
+    "step_title4": "Passo 4: Refine a aparência",
+    "step_description4": "Modifique o raio da borda e o tamanho da fonte para aperfeiçoar seu design.",
+    "step_title5": "Passo 5: Visualize sua criação",
+    "step_description5": "Veja suas alterações instantaneamente no painel de visualização à direita.",
+    "step_title6": "Passo 6: Baixe sua imagem",
+    "step_description6": "Quando estiver satisfeito, clique no botão 'Baixar Imagem' para salvar sua criação.",
+    "step_title7": "Passo 7: Reinicie se necessário",
+    "step_description7": "Use o botão 'Reiniciar' para começar de novo com as configurações padrão."
+  },
+  "WhyChooseUs": {
+    "title": "Por que escolher nosso Gerador Brat?",
+    "description": "Nosso Gerador Brat oferece uma variedade de recursos que tornam fácil e divertido criar imagens personalizadas semelhantes à capa do álbum Brat de Charli XCX.",
+    "feature_name1": "Fácil de usar",
+    "feature_description1": "Nossa interface intuitiva torna a criação de imagens de texto personalizadas muito simples, mesmo para iniciantes. Você pode começar a criar imediatamente, sem curva de aprendizado.",
+    "feature_name2": "Altamente personalizável",
+    "feature_description2": "Ajuste texto, cores, tamanho e mais para criar a imagem perfeita para suas necessidades. Com uma ampla gama de opções de personalização, você pode dar vida à sua visão exatamente como imagina.",
+    "feature_name3": "Visualização instantânea",
+    "feature_description3": "Veja suas alterações em tempo real, permitindo ajustes rápidos e fáceis. Este recurso ajuda você a refinar seu design eficientemente sem a necessidade de múltiplas exportações.",
+    "feature_name4": "Download em segundos",
+    "feature_description4": "Gere e baixe sua imagem personalizada com apenas um clique. Nosso processamento rápido garante que você possa obter sua imagem criada imediatamente, economizando um tempo valioso.",
+    "feature_name5": "Sem necessidade de conta",
+    "feature_description5": "Comece a criar imediatamente sem a necessidade de cadastros ou logins. Esta abordagem sem complicações permite que você mergulhe diretamente no processo criativo sem barreiras.",
+    "feature_name6": "Gratuito para usar",
+    "feature_description6": "Crie quantas imagens quiser, completamente de graça. Nossa ferramenta é acessível a todos, permitindo criatividade ilimitada sem restrições financeiras."
+  },
+  "FAQs": {
+    "title": "Perguntas frequentes sobre nosso Gerador Brat",
+    "description": "Aqui estão algumas perguntas comuns sobre nosso Gerador Brat:",
+    "question1": "Em que formato de arquivo as imagens geradas estão?",
+    "answer1": "O Gerador Brat cria imagens no formato PNG, que oferece alta qualidade e suporte a transparência, adequado para vários usos, incluindo web e impressão.",
+    "question2": "Há um limite para quantas imagens posso criar?",
+    "answer2": "Não, não há limite. Você pode criar quantas imagens quiser, completamente de graça.",
+    "question3": "Posso usar as imagens que crio para fins comerciais?",
+    "answer3": "Sim, as imagens que você cria com o Gerador Brat são suas para usar para qualquer finalidade, incluindo uso comercial.",
+    "question4": "Preciso criar uma conta para usar o Gerador Brat?",
+    "answer4": "Não, você não precisa criar uma conta. Você pode começar a usar o Gerador Brat imediatamente sem qualquer processo de cadastro.",
+    "question5": "Qual é o tamanho máximo de imagem que posso criar?",
+    "answer5": "O tamanho máximo de imagem é 1000x1000 pixels. Isso deve ser suficiente para a maioria dos casos de uso, incluindo postagens em redes sociais e gráficos para sites.",
+    "question6": "Posso usar fontes personalizadas em minhas imagens de texto?",
+    "answer6": "Atualmente, o Gerador Brat usa uma fonte padrão. Estamos trabalhando para adicionar suporte a fontes personalizadas em atualizações futuras."
+  },
+  "Banner": {
+    "title": "Gerador Brat",
+    "description": "O Gerador Brat é uma ferramenta online que permite aos usuários criar imagens personalizadas semelhantes à capa do álbum Brat de Charli XCX."
+  },
+  "BratGenerator": {
+    "enter_text": "Inserir texto",
+    "text_color": "Cor do texto",
+    "background_color": "Cor de fundo",
+    "width": "Largura",
+    "height": "Altura",
+    "border_radius": "Raio da borda",
+    "font_size": "Tamanho da fonte",
+    "reset": "Reiniciar",
+    "download_image": "Baixar",
+    "default_text": "brat"
+  }
+}
