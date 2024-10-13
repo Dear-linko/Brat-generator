@@ -39,12 +39,9 @@ export default function WhyChooseUs({ WhyChooseUsLanguageText }) {
     <div id="why-choose-us" className="bg-white dark:bg-gray-900 pt-16 sm:pb-24">
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
         <div className="mx-auto max-w-2xl lg:text-center">
-          {/* <h2 className="text-base font-semibold leading-7 text-indigo-600 dark:text-indigo-400">
-          Why Choose Our Yes or No Wheel?
-          </h2> */}
-          <h3 className="mt-2 text-3xl font-bold tracking-tight text-gray-900 dark:text-white sm:text-4xl">
+          <h2 className="mt-2 text-3xl font-bold tracking-tight text-gray-900 dark:text-white sm:text-4xl">
             {WhyChooseUsLanguageText.title}
-          </h3>
+          </h2>
           <p className="mt-6 text-lg leading-8 text-gray-600 dark:text-gray-300">
             {WhyChooseUsLanguageText.description}
           </p>
