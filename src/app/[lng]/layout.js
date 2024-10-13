@@ -3,6 +3,7 @@ import Navbar from "@/components/navbar/Navbar";
 import Footer from "@/components/footer/Footer";
 import { Providers } from "@/app/[lng]/providers";
 import GoogleAnalytics from "@/components/GoogleAnalytics";
+import PlausibleAnalyticsScript from "@/components/PlausibleAnalyticsScript";
 import config from "@/libs/config";
 import {
   getNavbarLanguageText,getLanguagesSwitchModalText,getFooterLanguageText
@@ -27,6 +28,7 @@ export default async function RootLayout({ children, params: { lng = "en" } }) {
           <Navbar lng={lng} NavbarLanguageText = {NavbarLanguageText} LanguagesSwitchModalText = {LanguagesSwitchModalText}/>
           <main className="flex-grow">{children}</main>
           <Footer FooterLanguageText = {FooterLanguageText}/>
+          <PlausibleAnalyticsScript />
           <GoogleAnalytics />
         </Providers>
       </body>
