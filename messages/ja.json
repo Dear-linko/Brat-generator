@@ -87,6 +87,7 @@
     "font_size": "フォントサイズ",
     "reset": "リセット",
     "download_image": "ダウンロード",
-    "default_text": "brat"
+    "default_text": "brat",
+    "blur_effect":"ぼかし効果"
   }
 }

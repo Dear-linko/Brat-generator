@@ -87,6 +87,7 @@
     "font_size": "Розмір шрифту",
     "reset": "Скинути",
     "download_image": "Завантажити",
-    "default_text": "brat"
+    "default_text": "brat",
+    "blur_effect":"Ефект розмиття"
   }
 }

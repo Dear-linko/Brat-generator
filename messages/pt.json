@@ -87,6 +87,7 @@
     "font_size": "Tamanho da fonte",
     "reset": "Reiniciar",
     "download_image": "Baixar",
-    "default_text": "brat"
+    "default_text": "brat",
+    "blur_effect":"Efeito de desfoque"
   }
 }

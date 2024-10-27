@@ -10,6 +10,7 @@ const BratGenerator = ({ BratGeneratorLanguageText }) => {
   const [height, setHeight] = useState(594);
   const [borderRadius, setBorderRadius] = useState(0);
   const [fontSize, setFontSize] = useState(48);
+  const [blurAmount, setBlurAmount] = useState(2.1);
   const bratRef = useRef(null);
 
   const handleTextChange = (e) => setText(e.target.value);
@@ -19,6 +20,10 @@ const BratGenerator = ({ BratGeneratorLanguageText }) => {
   const handleHeightChange = (e) => setHeight(Number(e.target.value));
   const handleBorderRadiusChange = (e) => setBorderRadius(Number(e.target.value));
   const handleFontSizeChange = (e) => setFontSize(Number(e.target.value));
+  const handleBlurChange = (e) => {
+    const value = parseFloat(e.target.value);
+    setBlurAmount(isNaN(value) ? 2.1 : Math.max(0, Math.min(4, value)));
+  };
 
   const downloadImage = () => {
     if (bratRef.current) {
@@ -84,6 +89,46 @@ const BratGenerator = ({ BratGeneratorLanguageText }) => {
               </div>
             </div>
           </div>
+
+          <div className="mb-4">
+            <label className="block mb-2 font-bold">{BratGeneratorLanguageText.font_size}: {fontSize}px</label>
+            <input
+              type="range"
+              min="12"
+              max="120"
+              value={fontSize}
+              onChange={handleFontSizeChange}
+              className="w-full dark:bg-gray-900"
+            />
+            <input
+              type="number"
+              value={fontSize}
+              onChange={handleFontSizeChange}
+              className="w-20 p-1 border rounded mt-2 dark:bg-gray-900"
+            />
+          </div>
+          
+          <div className="mb-4">
+            <label className="block mb-2 font-bold">{BratGeneratorLanguageText.blur_effect}: {blurAmount.toFixed(1)}px</label>
+            <input
+              type="range"
+              min="0"
+              max="4"
+              step="0.1"
+              value={blurAmount}
+              onChange={handleBlurChange}
+              className="w-full dark:bg-gray-900"
+            />
+            <input
+              type="number"
+              min="0"
+              max="4"
+              step="0.1"
+              value={blurAmount}
+              onChange={handleBlurChange}
+              className="w-20 p-1 border rounded mt-2 dark:bg-gray-900"
+            />
+          </div>
           
           <div className="mb-4">
             <label className="block mb-2 font-bold">{BratGeneratorLanguageText.width}: {width}px</label>
@@ -139,23 +184,7 @@ const BratGenerator = ({ BratGeneratorLanguageText }) => {
             />
           </div>
           
-          <div className="mb-4">
-            <label className="block mb-2 font-bold">{BratGeneratorLanguageText.font_size}: {fontSize}px</label>
-            <input
-              type="range"
-              min="12"
-              max="120"
-              value={fontSize}
-              onChange={handleFontSizeChange}
-              className="w-full dark:bg-gray-900"
-            />
-            <input
-              type="number"
-              value={fontSize}
-              onChange={handleFontSizeChange}
-              className="w-20 p-1 border rounded mt-2 dark:bg-gray-900"
-            />
-          </div>
+          
           
           <div className="flex justify-between mt-8">
             <button onClick={resetSettings} className="border px-4 py-2 rounded dark:bg-gray-900">{BratGeneratorLanguageText.reset}</button>
@@ -177,6 +206,7 @@ const BratGenerator = ({ BratGeneratorLanguageText }) => {
               maxWidth: '100%',
               maxHeight: '100%',
               overflow: 'hidden',
+              filter: `blur(${blurAmount}px)`,
             }}
           >
             <span style={{ 
@@ -186,6 +216,10 @@ const BratGenerator = ({ BratGeneratorLanguageText }) => {
               wordBreak: 'break-word',
               textAlign: 'center',
               padding: '10px',
+              fontFamily: 'Arial, sans-serif',
+              transform: 'scaleY(1.2)',
+              letterSpacing: '1px',
+              textRendering: 'optimizeLegibility',
             }}>
               {text}
             </span>

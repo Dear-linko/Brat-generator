@@ -87,6 +87,7 @@
     "font_size": "字体大小",
     "reset": "重置",
     "download_image": "下载",
-    "default_text": "brat"
+    "default_text": "brat",
+    "blur_effect":"模糊效果"
   }
 }

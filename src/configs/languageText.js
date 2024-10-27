@@ -143,6 +143,7 @@ export const getBratGeneratorLanguageText = async () => {
     font_size: safeTranslation(tBratGenerator, "font_size", "Font Size"),
     reset: safeTranslation(tBratGenerator, "reset", "Reset"),
     download_image: safeTranslation(tBratGenerator, "download_image", "Download"),
-    default_text: safeTranslation(tBratGenerator, "default_text", "brat")
+    default_text: safeTranslation(tBratGenerator, "default_text", "brat"),
+    blur_effect:safeTranslation(tBratGenerator,"blur_effect","Blur Effect")
   };
 };

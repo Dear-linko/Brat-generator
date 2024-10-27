@@ -87,6 +87,7 @@
       "font_size": "Kích thước phông chữ",
       "reset": "Đặt lại",
       "download_image": "Tải xuống",
-      "default_text": "brat"
+      "default_text": "brat",
+      "blur_effect":"Hiệu ứng làm mờ"
     }
   }

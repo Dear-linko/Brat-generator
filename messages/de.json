@@ -87,6 +87,7 @@
     "font_size": "Schriftgröße",
     "reset": "Zurücksetzen",
     "download_image": "Herunterladen",
-    "default_text": "brat"
+    "default_text": "brat",
+    "blur_effect":"nschärfeeffekt"
   }
 }
