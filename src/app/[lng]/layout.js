@@ -8,6 +8,7 @@ import config from "@/libs/config";
 import {
   getNavbarLanguageText,getLanguagesSwitchModalText,getFooterLanguageText
 } from "@/configs/languageText";
+import ClarityAnalytics from "@/components/ClarityAnalytics";
 
 export const metadata = {
   metadataBase: new URL(process.env.WEB_URL || "https://example.com"),
@@ -28,6 +29,7 @@ export default async function RootLayout({ children, params: { lng = "en" } }) {
           <Navbar lng={lng} NavbarLanguageText = {NavbarLanguageText} LanguagesSwitchModalText = {LanguagesSwitchModalText}/>
           <main className="flex-grow">{children}</main>
           <Footer FooterLanguageText = {FooterLanguageText}/>
+          <ClarityAnalytics/>
           <PlausibleAnalyticsScript />
           <GoogleAnalytics />
         </Providers>
