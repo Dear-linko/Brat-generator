@@ -10,7 +10,8 @@ import WhyChooseUs from "@/components/WhyChooseUs";
 import FAQs from "@/components/FAQs";
 import CTA from "@/components/CTA";
 import Case from "@/components/Case";
-import BratGenerator from "@/components/function/BratGenerator";
+import BratGeneratorWithAds from "@/components/function/BratGeneratorWithAds";
+
 export async function generateMetadata({ params: { lng = "" } }) {
   unstable_setRequestLocale(lng);
   const MetadataLanguageText = await getMetadataLanguageText();
@@ -47,7 +48,8 @@ export default async function Home({ params: { lng = "" } }) {
   return (
     <main className="container mx-auto p-4">
       <Banner BannerLanguageText={BannerLanguageText}/>
-      <BratGenerator BratGeneratorLanguageText={BratGeneratorLanguageText}/>
+      <BratGeneratorWithAds BratGeneratorLanguageText={BratGeneratorLanguageText}/>
+      
       {/* <RouletteWheel /> */}
       {/* <Feature/> */}
       <HowToUse HowToUseLanguageText={HowToUseLanguageText}/>

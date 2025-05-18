@@ -4,6 +4,7 @@ import Footer from "@/components/footer/Footer";
 import { Providers } from "@/app/[lng]/providers";
 import GoogleAnalytics from "@/components/GoogleAnalytics";
 import PlausibleAnalyticsScript from "@/components/PlausibleAnalyticsScript";
+import GoogleAdsenseScript from "@/components/GoogleAdsenseScript";
 import config from "@/libs/config";
 import {
   getNavbarLanguageText,getLanguagesSwitchModalText,getFooterLanguageText
@@ -32,6 +33,7 @@ export default async function RootLayout({ children, params: { lng = "en" } }) {
           <ClarityAnalytics/>
           <PlausibleAnalyticsScript />
           <GoogleAnalytics />
+          <GoogleAdsenseScript />
         </Providers>
       </body>
     </html>
