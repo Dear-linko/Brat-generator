@@ -19,7 +19,7 @@ export async function generateMetadata({ params: { lng = "" } }) {
     title: MetadataLanguageText.title,
     description: MetadataLanguageText.description,
     other: {
-      "google-site-verification": "ca-pub-3313287752284032",
+      "google-adsense-account": "ca-pub-3313287752284032",
     },
     alternates: {
       canonical: `${process.env.WEB_URL}${canonicalPath}`,
