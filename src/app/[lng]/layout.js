@@ -28,7 +28,7 @@ export default async function RootLayout({ children, params: { lng = "en" } }) {
         <Providers>
           <Navbar lng={lng} NavbarLanguageText = {NavbarLanguageText} LanguagesSwitchModalText = {LanguagesSwitchModalText}/>
           <main className="flex-grow">{children}</main>
-          <Footer FooterLanguageText = {FooterLanguageText}/>
+          <Footer FooterLanguageText = {FooterLanguageText} lng={lng}/>
           <ClarityAnalytics/>
           <PlausibleAnalyticsScript />
           <GoogleAnalytics />

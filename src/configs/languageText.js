@@ -30,7 +30,9 @@ export const getNavbarLanguageText = async () => {
 export const getFooterLanguageText = async () => {
   const tFooter = await getTranslations("Footer");
   return {
-    copyright: safeTranslation(tFooter, "copyright", "© 2024 Brat Generator. All rights reserved.")
+    copyright: safeTranslation(tFooter, "copyright", "© 2024 Brat Generator. All rights reserved."),
+    privacy_policy: safeTranslation(tFooter, "privacy_policy", "Privacy Policy"),
+    terms_of_service: safeTranslation(tFooter, "terms_of_service", "Terms of Service")
   };
 };
 
@@ -145,5 +147,23 @@ export const getBratGeneratorLanguageText = async () => {
     download_image: safeTranslation(tBratGenerator, "download_image", "Download"),
     default_text: safeTranslation(tBratGenerator, "default_text", "brat"),
     blur_effect:safeTranslation(tBratGenerator,"blur_effect","Blur Effect")
+  };
+};
+
+export const getPrivacyPolicyLanguageText = async () => {
+  const tPrivacyPolicy = await getTranslations("PrivacyPolicy");
+  return {
+    title: safeTranslation(tPrivacyPolicy, "title", "Privacy Policy - Brat Generator"),
+    description: safeTranslation(tPrivacyPolicy, "description", "Privacy Policy for Brat Generator - Learn how we protect your privacy while using our image generation tool."),
+    content: safeTranslation(tPrivacyPolicy, "content", ""),
+  };
+};
+
+export const getTermsOfServiceLanguageText = async () => {
+  const tTermsOfService = await getTranslations("TermsOfService");
+  return {
+    title: safeTranslation(tTermsOfService, "title", "Terms of Service - Brat Generator"),
+    description: safeTranslation(tTermsOfService, "description", "Terms of Service for Brat Generator - Read our terms and conditions for using our image generation tool."),
+    content: safeTranslation(tTermsOfService, "content", ""),
   };
 };
