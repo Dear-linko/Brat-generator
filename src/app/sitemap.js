@@ -1,6 +1,7 @@
 // app/sitemap.js
 import { locales } from "@/config";
 export default function sitemap() {
+    
     return locales.map(locale => {
         let url, lastModified, changeFrequency, priority;
         if(locale === 'en'){

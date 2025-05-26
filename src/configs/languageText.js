@@ -167,3 +167,33 @@ export const getTermsOfServiceLanguageText = async () => {
     content: safeTranslation(tTermsOfService, "content", ""),
   };
 };
+
+export const getWhatIsBratGeneratorLanguageText = async () => {
+  const tWhatIsBratGenerator = await getTranslations("WhatIsBratGenerator");
+  return {
+    title: safeTranslation(tWhatIsBratGenerator, "title", "What is Brat Generator? A Complete Guide"),
+    description: safeTranslation(tWhatIsBratGenerator, "description", "Brat Generator is an online tool that allows users to create custom images resembling the album cover of Brat by Charli XCX."),
+    content: safeTranslation(tWhatIsBratGenerator, "content", ""),
+    date: safeTranslation(tWhatIsBratGenerator, "date", "2024-03-20"),  
+  };
+};
+
+export const getHowToUseBratGeneratorLanguageText = async () => {
+  const tHowToUseBratGenerator = await getTranslations("HowToUseBratGenerator");
+  return {
+    title: safeTranslation(tHowToUseBratGenerator, "title", "How to Use Brat Generator: Step-by-Step Tutorial"),
+    description: safeTranslation(tHowToUseBratGenerator, "description", "How to Use Brat Generator: Step-by-Step Tutorial.Ready to create stunning text images with Brat Generator?"),
+    content: safeTranslation(tHowToUseBratGenerator, "content", ""),
+    date: safeTranslation(tHowToUseBratGenerator, "date", "2024-03-20"),
+  };
+};
+
+export const getCreativeUsesOfBratGeneratorLanguageText = async () => {
+  const tCreativeUsesOfBratGenerator = await getTranslations("CreativeUsesOfBratGenerator");
+  return {
+    title: safeTranslation(tCreativeUsesOfBratGenerator, "title", "Creative Uses of Brat Generator"),
+    description: safeTranslation(tCreativeUsesOfBratGenerator, "description", "Discover how to leverage Brat Generator to create engaging social media content that captures attention and drives engagement."),
+    content: safeTranslation(tCreativeUsesOfBratGenerator, "content", ""),
+    date: safeTranslation(tCreativeUsesOfBratGenerator, "date", "2024-03-20"),
+  };
+};
