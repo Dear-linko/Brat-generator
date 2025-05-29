@@ -15,6 +15,7 @@ export default function Navbar({ lng, NavbarLanguageText ,LanguagesSwitchModalTe
     { name: NavbarLanguageText.Item2, href: '#why-choose-us' },
     // {name:'Use Cases', href:'#case'},
     { name: NavbarLanguageText.Item4, href: '#faqs' },
+    { name: NavbarLanguageText.Item5, href: '/blog' },
   ]
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   return (

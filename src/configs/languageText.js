@@ -23,7 +23,8 @@ export const getNavbarLanguageText = async () => {
     Item1: safeTranslation(tNavbar, "Item1", "How to use"),
     Item2: safeTranslation(tNavbar, "Item2", "Why choose us"),
     Item3: safeTranslation(tNavbar, "Item3", "Use Cases"),
-    Item4: safeTranslation(tNavbar, "Item4", "FAQ")
+    Item4: safeTranslation(tNavbar, "Item4", "FAQ"),
+    Item5: safeTranslation(tNavbar, "Item5", "Blog")
   };
 };
 
